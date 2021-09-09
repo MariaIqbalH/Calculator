@@ -1,4 +1,4 @@
 Basic calculator
 Uses: 
-  if statemments, loops, eventListeners, switch.
+  if statemments, forEach, eventListeners, switch.
 Shows 2 outputs.
